@@ -7,7 +7,7 @@ let scoreboard;
 let score = 0;
 
 function preload() {
-  bgImage = loadImage("Best Background.jpg");
+  bgImage = loadImage("bestbackground.jpg");
   playerImage = loadImage("player3.png");
   obstacleImage = loadImage("wiwk.png");
 }
